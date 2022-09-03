@@ -1,0 +1,2 @@
+#### Lets change the user in git configuration to validate particular user changes in GitHub repository####
+Let's create a new user with the name John and email as john@example.com. 
