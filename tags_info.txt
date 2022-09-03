@@ -1,0 +1,8 @@
+### tags_info is created in feature2 branch ###
+We can list out all the available tags in our repository by executing one of the command:
+
+git tag (Most commonly used)
+
+git show
+
+git tag -| ".*"
