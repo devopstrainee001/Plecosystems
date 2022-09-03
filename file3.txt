@@ -1,0 +1,2 @@
+#### Key Point ###
+git init is the first command that is executed in the fresh new project.
